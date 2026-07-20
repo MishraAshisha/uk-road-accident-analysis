@@ -2,6 +2,9 @@
 
 An end-to-end analysis of UK road accident data using **SQL** and **Power BI**, uncovering trends, patterns, and key insights into accident causes and severity.
 
+## SQL Queries
+
+
 ## 📊 Dashboard Overview
 ![Dashboard Screenshot](PBI1.PNG)
 The interactive Power BI dashboard highlights:
@@ -25,6 +28,10 @@ The interactive Power BI dashboard highlights:
 - Most accidents occur in daylight (72.98%) rather than darkness (27.02%)
 - Single carriageways see significantly higher accident counts than other road types
 - Cars are involved in the highest number of accidents by vehicle type
+
+## 🔑 Key Insights
+
+https://app.powerbi.com/view?r=eyJrIjoiNWFmNDE3NzYtYTU0MS00YzIxLWFhZTYtYmIwN2NlZmViOTI3IiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9&embedImagePlaceholder=true
 
 ## 📄 License
 
