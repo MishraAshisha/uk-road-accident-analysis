@@ -40,5 +40,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Ashisha Mishra**
-email: connect.amishra@protonmail.com
+
+Email: connect.amishra@protonmail.com
+
 Linkedin:
