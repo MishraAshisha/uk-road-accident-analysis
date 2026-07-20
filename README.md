@@ -41,6 +41,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Ashisha Mishra**
 
-Email: connect.amishra@protonmail.com
-
 Linkedin:
