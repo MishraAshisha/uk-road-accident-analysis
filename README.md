@@ -31,7 +31,7 @@ The interactive Power BI dashboard highlights:
 
 ## 🔑 Dashboard Link
 
-https://app.powerbi.com/view?r=eyJrIjoiNWFmNDE3NzYtYTU0MS00YzIxLWFhZTYtYmIwN2NlZmViOTI3IiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9&embedImagePlaceholder=true
+[View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWFmNDE3NzYtYTU0MS00YzIxLWFhZTYtYmIwN2NlZmViOTI3IiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9&embedImagePlaceholder=true)
 
 ## 📄 License
 
