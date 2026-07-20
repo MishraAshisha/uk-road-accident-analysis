@@ -3,7 +3,7 @@
 An end-to-end analysis of UK road accident data using **SQL** and **Power BI**, uncovering trends, patterns, and key insights into accident causes and severity.
 
 ## SQL Queries
-
+See the full list of queries used. 
 
 ## 📊 Dashboard Overview
 ![Dashboard Screenshot](PBI1.PNG)
@@ -29,7 +29,7 @@ The interactive Power BI dashboard highlights:
 - Single carriageways see significantly higher accident counts than other road types
 - Cars are involved in the highest number of accidents by vehicle type
 
-## 🔑 Key Insights
+## 🔑 Dashboard Link
 
 https://app.powerbi.com/view?r=eyJrIjoiNWFmNDE3NzYtYTU0MS00YzIxLWFhZTYtYmIwN2NlZmViOTI3IiwidCI6ImYxNWQ4YWQ1LTViZjYtNDg1NC1iNGRkLTg1MDM1MGNiYjhlMCJ9&embedImagePlaceholder=true
 
@@ -40,3 +40,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Ashisha Mishra**
+email: connect.amishra@protonmail.com
+Linkedin:
