@@ -3,7 +3,7 @@
 An end-to-end analysis of UK road accident data using **SQL** and **Power BI**, uncovering trends, patterns, and key insights into accident causes and severity.
 
 ## SQL Queries
-See the full list of queries used. 
+See the full list of SQL queries used in this project: [uk-road-accident-analysis.sql](uk-road-accident-analysis.sql)
 
 ## 📊 Dashboard Overview
 ![Dashboard Screenshot](PBI1.PNG)
