@@ -3,7 +3,7 @@
 An end-to-end analysis of UK road accident data using **SQL** and **Power BI**, uncovering trends, patterns, and key insights into accident causes and severity.
 
 ## 📊 Dashboard Overview
-
+![Dashboard Screenshot](PBI1.PNG)
 The interactive Power BI dashboard highlights:
 
 - **195.7K** total casualties and **308K** total accidents for the current year
