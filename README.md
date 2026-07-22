@@ -1,5 +1,7 @@
 # 🚧 UK Road Accident Analysis
 
+**By Ashisha Mishra**
+
 An end-to-end analysis of UK road accident data using **SQL** and **Power BI**, uncovering trends, patterns, and key insights into accident causes and severity.
 
 ## 🗃️ SQL Queries
